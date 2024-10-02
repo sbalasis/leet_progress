@@ -26,10 +26,12 @@
 | ------- |
 | [0136-single-number](https://github.com/sbalasis/leet_progress/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/sbalasis/leet_progress/tree/master/0268-missing-number) |
+| [1256-rank-transform-of-an-array](https://github.com/sbalasis/leet_progress/tree/master/1256-rank-transform-of-an-array) |
 ## Hash Table
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/sbalasis/leet_progress/tree/master/0268-missing-number) |
+| [1256-rank-transform-of-an-array](https://github.com/sbalasis/leet_progress/tree/master/1256-rank-transform-of-an-array) |
 ## Math
 |  |
 | ------- |
@@ -43,6 +45,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/sbalasis/leet_progress/tree/master/0268-missing-number) |
+| [1256-rank-transform-of-an-array](https://github.com/sbalasis/leet_progress/tree/master/1256-rank-transform-of-an-array) |
 ## Recursion
 |  |
 | ------- |
