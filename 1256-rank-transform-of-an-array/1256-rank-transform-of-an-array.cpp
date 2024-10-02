@@ -10,15 +10,12 @@ public:
         {
             indexedVec.push_back({i, arr[i]});  // {original_index, value}
         }
-
         // Sort the vector of pairs by the value (second element of the pair)
         std::sort(indexedVec.begin(), indexedVec.end(), [](const std::pair<int, int>& a, const std::pair<int, int>& b) 
         {
             return a.second < b.second;  // Sort by value (second element)
         });
 
-        // Output the sorted values along with their original indices
-        std::cout << "Sorted values with original indices:" << std::endl;
         int tmp = -1;
         int rank = 0;
         for (const auto& kv : indexedVec) 
@@ -29,7 +26,6 @@ public:
                 rank++;
             }
             ranks[kv.first] = rank;
-            std::cout << "Original Index: " << kv.first << ", Value: " << kv.second << std::endl;
         }
         return ranks;
     }
