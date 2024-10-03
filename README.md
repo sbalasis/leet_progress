@@ -27,11 +27,13 @@
 | [0136-single-number](https://github.com/sbalasis/leet_progress/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/sbalasis/leet_progress/tree/master/0268-missing-number) |
 | [1256-rank-transform-of-an-array](https://github.com/sbalasis/leet_progress/tree/master/1256-rank-transform-of-an-array) |
+| [1694-make-sum-divisible-by-p](https://github.com/sbalasis/leet_progress/tree/master/1694-make-sum-divisible-by-p) |
 ## Hash Table
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/sbalasis/leet_progress/tree/master/0268-missing-number) |
 | [1256-rank-transform-of-an-array](https://github.com/sbalasis/leet_progress/tree/master/1256-rank-transform-of-an-array) |
+| [1694-make-sum-divisible-by-p](https://github.com/sbalasis/leet_progress/tree/master/1694-make-sum-divisible-by-p) |
 ## Math
 |  |
 | ------- |
@@ -50,4 +52,8 @@
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/sbalasis/leet_progress/tree/master/0342-power-of-four) |
+## Prefix Sum
+|  |
+| ------- |
+| [1694-make-sum-divisible-by-p](https://github.com/sbalasis/leet_progress/tree/master/1694-make-sum-divisible-by-p) |
 <!---LeetCode Topics End-->
