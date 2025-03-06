@@ -43,6 +43,7 @@
 | ------- |
 | [0268-missing-number](https://github.com/sbalasis/leet_progress/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/sbalasis/leet_progress/tree/master/0342-power-of-four) |
+| [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/sbalasis/leet_progress/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [3227-find-missing-and-repeated-values](https://github.com/sbalasis/leet_progress/tree/master/3227-find-missing-and-repeated-values) |
 ## Binary Search
 |  |
