@@ -28,17 +28,20 @@
 | [0268-missing-number](https://github.com/sbalasis/leet_progress/tree/master/0268-missing-number) |
 | [1256-rank-transform-of-an-array](https://github.com/sbalasis/leet_progress/tree/master/1256-rank-transform-of-an-array) |
 | [1694-make-sum-divisible-by-p](https://github.com/sbalasis/leet_progress/tree/master/1694-make-sum-divisible-by-p) |
+| [3227-find-missing-and-repeated-values](https://github.com/sbalasis/leet_progress/tree/master/3227-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/sbalasis/leet_progress/tree/master/0268-missing-number) |
 | [1256-rank-transform-of-an-array](https://github.com/sbalasis/leet_progress/tree/master/1256-rank-transform-of-an-array) |
 | [1694-make-sum-divisible-by-p](https://github.com/sbalasis/leet_progress/tree/master/1694-make-sum-divisible-by-p) |
+| [3227-find-missing-and-repeated-values](https://github.com/sbalasis/leet_progress/tree/master/3227-find-missing-and-repeated-values) |
 ## Math
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/sbalasis/leet_progress/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/sbalasis/leet_progress/tree/master/0342-power-of-four) |
+| [3227-find-missing-and-repeated-values](https://github.com/sbalasis/leet_progress/tree/master/3227-find-missing-and-repeated-values) |
 ## Binary Search
 |  |
 | ------- |
@@ -56,4 +59,8 @@
 |  |
 | ------- |
 | [1694-make-sum-divisible-by-p](https://github.com/sbalasis/leet_progress/tree/master/1694-make-sum-divisible-by-p) |
+## Matrix
+|  |
+| ------- |
+| [3227-find-missing-and-repeated-values](https://github.com/sbalasis/leet_progress/tree/master/3227-find-missing-and-repeated-values) |
 <!---LeetCode Topics End-->
