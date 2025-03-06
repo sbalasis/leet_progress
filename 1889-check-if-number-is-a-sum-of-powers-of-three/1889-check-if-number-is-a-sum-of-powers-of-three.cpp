@@ -13,7 +13,6 @@ public:
         {
             if(res - pow(3,x) == 0)
             {
-                printf("res1 is %d\n", res);
                 if(prev == x)
                 {
                     return false;
@@ -22,16 +21,12 @@ public:
             }
             else if(res - pow(3, x)> 0)
             {
-                printf("res2 is %d, x is %d\n", res, x);
                 x++;
                 
             }
             else if(res - pow(3, x) < 0)
             {
-                
-                //printf("res3 is %d, x is %d\n", res, x);
                 res = res - pow(3,x-1);
-                printf("res3 is %d, x is %d\n", res, x);
                 if(prev == x -1)
                 {
                     return false;
@@ -40,7 +35,6 @@ public:
                 x = 0;
                 if(res < 0)
                 {
-                    printf("res4 is %d\n", res);
                     return false;
                 }
                 
